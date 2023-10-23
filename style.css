@@ -1,0 +1,17 @@
+@charset = "UTF-8";
+
+body{
+    background-color: rgb(72,79,61);
+}
+ol,p,h1,h2{
+    color: rgb(216, 157, 127);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    }
+    
+    .imgta{
+        text-align: center;
+        }
+    .semsub{
+            color: inherit;
+        }
